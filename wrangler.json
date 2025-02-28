@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "cool-feather-27bd",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e3152fb8-12b8-47a2-bcc8-d260de4e5616",
+      "database_name": "cool-feather-27bd-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
